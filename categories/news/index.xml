@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on My_Footprints</title>
+    <link>http://Bengineeer.github.io/categories/news/</link>
+    <description>Recent content in News on My_Footprints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © Bengineer 2021</copyright>
+    <lastBuildDate>Tue, 19 Jan 2021 16:54:16 +0900</lastBuildDate>
+    
+	<atom:link href="http://Bengineeer.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First_post</title>
+      <link>http://Bengineeer.github.io/post/first_post/</link>
+      <pubDate>Tue, 19 Jan 2021 16:54:16 +0900</pubDate>
+      
+      <guid>http://Bengineeer.github.io/post/first_post/</guid>
+      <description>I&amp;rsquo;m going to leave notes I work for IT company. In fact, my job is boring because I repeat the same thing everyday. Nothing special. So I want to challenge many other things. Want to make funny stuff, make a fortune, live overseas, etc&amp;hellip; I don&amp;rsquo;t like, but blogging is also what I want to do. I&amp;rsquo;ve ever made my blog site on other blogging service like WordPress but I couldn&amp;rsquo;t continue them all.</description>
+    </item>
+    
+  </channel>
+</rss>
